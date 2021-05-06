@@ -1,4 +1,4 @@
-# Angular Material for Figma
+# Angular Material (Material Design Component Figma Library For Angular)
 Material Design Components Figma Library For Angular
 
 ## How to use the file
